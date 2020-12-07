@@ -11,7 +11,7 @@
 
 * Open phpmyadmin.
 * Create Database lssemsdb.
-* Import database lsssemsdb.sql(file available inside the pacakege).
+* Import database lssemsdb.sql(file available inside the pacakege).
 * Open Your browser put inside browser **“http://localhost/LocateMe/”**.
 
 #### For admin login click on the admin login then provide username and password:
