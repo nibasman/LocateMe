@@ -17,7 +17,7 @@
 #### For admin login click on the admin login then provide username and password:
 ```
 Email id : admin
-Passowrd : Test@12345
+Passowrd : Test@123
 ```
 ### Few output screenshots:
 
