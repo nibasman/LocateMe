@@ -21,8 +21,8 @@ Passowrd : Test@12345
 ```
 ### Few output screenshots:
 
-![screenshot1](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img1.PNG)
-![screenshot1](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img2.PNG)
-![screenshot1](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img3.PNG)
-![screenshot1](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img4.PNG)
-![screenshot1](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img5.PNG)
+![screenshot1](https://github.com/nibasman/nibasman/blob/main/Screenshot/Screenshot%20(199).png)
+![screenshot1](https://github.com/nibasman/nibasman/blob/main/Screenshot/Screenshot%20(199).png)
+![screenshot1](https://github.com/nibasman/nibasman/blob/main/Screenshot/Screenshot%20(199).png)
+![screenshot1](https://github.com/nibasman/nibasman/blob/main/Screenshot/Screenshot%20(199).png)
+![screenshot1](https://github.com/nibasman/nibasman/blob/main/Screenshot/Screenshot%20(199).png)
