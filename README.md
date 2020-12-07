@@ -1,4 +1,4 @@
-### Internet Technologies: Local Services Search Engine Management Services
+### Internet Technologies: Local Services Search Engine Management System
 #### Submitted by:
 ##### Nibas Mandal
 ##### 19MCMC09
